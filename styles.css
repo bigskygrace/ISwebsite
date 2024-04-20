@@ -1,0 +1,40 @@
+.Header{
+    text-align: center;
+    background-color: #D39D87;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.mainbody{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.centered-list{
+    text-align: center;
+}
+.centered-list ol{
+    text-align: left;
+    display:inline-block;
+    list-style-position: inside;
+    text-decoration: underline;
+}
+.centered-list ul{
+    text-align: left;
+    display:inline-block;
+    list-style-position: inside;
+}
+.graphs{
+    text-align: center;
+}
+.youtube{
+    text-align: center;
+    margin: 0 auto;
+    max-width: fit-content;
+}
+.tableau{
+    text-align: center;
+    margin: 0 auto;
+    max-width: fit-content;
+}
+.footer{
+    text-align: center;
+    background-color:lavenderblush
+}
